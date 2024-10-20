@@ -13,6 +13,8 @@ import es.upm.grise.profundizacion.control_1.NonExistingBookException;
 
 import java.lang.IndexOutOfBoundsException;
 
+// Author: Alejandro Carrasco Aragon
+
 public class LibraryTest {
 
 	@Test
